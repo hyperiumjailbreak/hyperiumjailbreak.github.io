@@ -3,13 +3,13 @@ container:
 
 docs_deploy_task:
   env:
-    DEPLOY_TOKEN: tbd
+    DEPLOY_TOKEN: ENCRYPTED[ebe309ee6843dc9b1449175901cb40b3d63a18dbd078a44cdcfc81612fe69bff863999c7b934d2d7e833b9d9aec2c62b]
   install_script: pip install --upgrade pymdown-extensions
   skip: $CIRRUS_BRANCH != 'master'
   deploy_script: |
     git config --global user.name "Cirrus CI"
     git config --global user.email "support@rdil.rocks"
-    git remote set-url origin https://$DEPLOY_TOKEN@github.com/annieapp/annie/
+    git remote set-url origin https://$DEPLOY_TOKEN@github.com/hyperiumjailbreak/site/
     mkdocs gh-deploy --force --remote-branch gh-pages
 
 docs_test_task:
