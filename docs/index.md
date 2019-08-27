@@ -1,5 +1,5 @@
-# Test
+# HyperiumJailbreak
 
-Hello world
+Welcome to HyperiumJailbreak's official website. Here we have documentation on most of the stuff you may want to know.
 
-Welcome to the new site!!
+Thanks for visiting!
