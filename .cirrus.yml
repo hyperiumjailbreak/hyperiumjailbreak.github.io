@@ -10,6 +10,10 @@ docs_deploy_task:
     git config --global user.email "support@rdil.rocks"
     git remote set-url origin https://$DEPLOY_TOKEN@github.com/${CIRRUS_REPO_FULL_NAME}/
     mkdocs gh-deploy --force --remote-branch gh-pages
+    touch CNAME
+    echo "www.hyperiumjailbreak.com\nhyperiumjailbreak.com" > CNAME
+    git commit -a -m "Add CNAME for deploy"
+    git push
 
 docs_test_task:
   build_script: mkdocs build
