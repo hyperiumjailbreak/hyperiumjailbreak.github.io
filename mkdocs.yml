@@ -52,4 +52,4 @@ extra:
 nav:
   - Home: index.md
   - Features: features.md
-  - Installing: installing.md
+  - Installing: installation.md
