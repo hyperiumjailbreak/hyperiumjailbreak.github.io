@@ -8,9 +8,8 @@ theme:
     primary: 'blue'
     accent: 'pink'
 
-edit_uri: blob/master/docs/
 repo_name: 'hyperiumjailbreak/client'
-repo_url: 'https://github.com/hyperiumjailbreak/website'
+repo_url: 'https://github.com/hyperiumjailbreak/client'
 
 markdown_extensions:
   - markdown.extensions.admonition
