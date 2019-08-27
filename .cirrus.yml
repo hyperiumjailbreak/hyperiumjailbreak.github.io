@@ -3,7 +3,7 @@ container:
 
 docs_deploy_task:
   env:
-    DEPLOY_TOKEN: ENCRYPTED[ebe309ee6843dc9b1449175901cb40b3d63a18dbd078a44cdcfc81612fe69bff863999c7b934d2d7e833b9d9aec2c62b]
+    DEPLOY_TOKEN: ENCRYPTED[9606da4b0df30fc7e7dff61c781bf38489c044be19f156c4c8c887589f9445e7ac07e0926a3b80330964c4bff38b7d9a]
   skip: $CIRRUS_BRANCH != 'master'
   deploy_script: |
     git config --global user.name "Cirrus CI"
