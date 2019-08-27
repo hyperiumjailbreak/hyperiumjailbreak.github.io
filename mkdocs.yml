@@ -54,3 +54,5 @@ nav:
   - Features: features.md
   - Installing: installation.md
   - 'Our Sponsor': cloudrepo.md
+  - Contributing:
+    - 'Code of Conduct': contrib/CODE_OF_CONDUCT.md
