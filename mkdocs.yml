@@ -7,8 +7,6 @@ theme:
   palette:
     primary: 'blue'
     accent: 'pink'
-  feature:
-    tabs: true
 
 repo_name: 'hyperiumjailbreak/client'
 repo_url: 'https://github.com/hyperiumjailbreak/client'
