@@ -1,4 +1,4 @@
-## Our Gracious Sponsor
+# Our Gracious Sponsor
 
 [![CloudRepo Logo](https://www.cloudrepo.io/assets/img/logo/landscape/CloudRepo-Landscape-Brand-Blue.png)](https://cloudrepo.io)
 
