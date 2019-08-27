@@ -3,10 +3,10 @@ site_name: HyperiumJailbreak
 theme:
   name: 'material'
   palette:
-    primary: 'pink'
+    primary: 'blue'
     accent: 'pink'
   feature:
-    tabs: false
+    tabs: true
 
 repo_name: 'hyperiumjailbreak/client'
 repo_url: 'https://github.com/hyperiumjailbreak/client'
