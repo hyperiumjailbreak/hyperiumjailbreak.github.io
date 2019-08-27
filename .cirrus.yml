@@ -8,7 +8,7 @@ docs_deploy_task:
   deploy_script: |
     git config --global user.name "Cirrus CI"
     git config --global user.email "support@rdil.rocks"
-    git remote set-url origin https://$DEPLOY_TOKEN@github.com/hyperiumjailbreak/site/
+    git remote set-url origin https://$DEPLOY_TOKEN@github.com/hyperiumjailbreak/hyperiumjailbreak.github.io/
     mkdocs gh-deploy --force --remote-branch gh-pages
 
 docs_test_task:
