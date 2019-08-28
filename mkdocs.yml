@@ -2,8 +2,7 @@ site_name: HyperiumJailbreak
 
 theme:
   name: 'material'
-  logo:
-    icon: 'cloud'
+  logo: 'assets/logo.png'
   palette:
     primary: 'blue'
     accent: 'indigo'
