@@ -6,7 +6,7 @@ theme:
     icon: 'cloud'
   palette:
     primary: 'blue'
-    accent: 'pink'
+    accent: 'indigo'
 
 repo_name: 'hyperiumjailbreak/client'
 repo_url: 'https://github.com/hyperiumjailbreak/client'
