@@ -56,4 +56,5 @@ nav:
   - 'FAQ / Help Center': faq.md
   - 'Our Sponsor': cloudrepo.md
   - Contributing:
+    - 'Development Guide': contrib/development.md
     - 'Code of Conduct': contrib/CODE_OF_CONDUCT.md
