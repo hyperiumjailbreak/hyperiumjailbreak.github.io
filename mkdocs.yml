@@ -3,7 +3,7 @@ site_name: HyperiumJailbreak
 theme:
   name: 'material'
   logo: 'assets/logo.png'
-  favicon: 'assets/favicon.ico'
+  favicon: 'favicon.ico'
   palette:
     primary: 'blue'
     accent: 'indigo'
