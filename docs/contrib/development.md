@@ -23,7 +23,7 @@ of an elephant). Expand the `forgegradle` section.
 * If you want to be able to view the decompiled code for Minecraft in addition to being able to run the client (assists with creating mixins), double click `setupDecompWorkspace`.
 * If you just want to be able to run the client, double click `setupDevWorkspace`.
 
-!!! warning
+!!! danger "Potential issues with `setupDecompWorkspace`"
     `setupDecompWorkspace` is more likely to fail.
     You can give it a try, but there is no guarantee
     it will work. Don't be discouraged by this message
