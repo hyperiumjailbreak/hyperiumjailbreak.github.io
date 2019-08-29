@@ -28,3 +28,16 @@ of an elephant). Expand the `forgegradle` section.
     You can give it a try, but there is no guarantee
     it will work. Don't be discouraged by this message
     though!
+
+## Running the client
+
+To run the client in the development environment, you can execute the pre-made task called `runClient`.
+You can either do it in the Gradle tab under `forgegradle`, or in the run configurations dropdown.
+
+!!! tip "Where to find the configurations dropdown"
+    The configurations dropdown will be in the top
+    right corner of the IDE by default. If for some
+    reason our pre-made configurations aren't detected,
+    it will say "Add Configurations".
+
+After starting the run process, the client should appear soon after.
