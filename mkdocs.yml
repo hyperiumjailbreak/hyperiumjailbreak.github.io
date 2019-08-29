@@ -11,9 +11,6 @@ theme:
 repo_name: 'hyperiumjailbreak/client'
 repo_url: 'https://github.com/hyperiumjailbreak/client'
 
-extra_javascript:
-  - 'https://d33wubrfki0l68.cloudfront.net/js/2b83bfbd91b6404270c92627437206f795c75768/js/injection/rocketloader.js'
-
 markdown_extensions:
   - markdown.extensions.admonition
   - markdown.extensions.codehilite:
