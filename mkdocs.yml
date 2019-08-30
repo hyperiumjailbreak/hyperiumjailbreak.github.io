@@ -58,3 +58,4 @@ nav:
   - Contributing:
     - 'Development Guide': contrib/development.md
     - 'Code of Conduct': contrib/CODE_OF_CONDUCT.md
+    - 'Pull Request Policy': contrib/pr_policy.md
