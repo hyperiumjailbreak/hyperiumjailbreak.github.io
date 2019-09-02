@@ -53,6 +53,7 @@ nav:
   - Home: index.md
   - Features: features.md
   - Installing: installation.md
+  - Addons: addons.md
   - 'FAQ / Help Center': faq.md
   - 'Our Sponsor': cloudrepo.md
   - Contributing:
