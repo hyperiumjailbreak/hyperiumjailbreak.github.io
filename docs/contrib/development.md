@@ -7,7 +7,7 @@ Hello and welcome to the HyperiumJailbreak developer guide.
     the basics. This is exactly why this guide
     will never be complete.
 
-## Starting Off (Bootstrap)
+## Starting off (Bootstrap)
 
 First, you are going to want to grab a copy of the latest [IntelliJ IDEA](https://www.jetbrains.com/idea/) build.
 After you download and install it, you are ready to start the in-IDE bootstrap phase.
@@ -41,3 +41,7 @@ You can either do it in the Gradle tab under `forgegradle`, or in the run config
     it will say "Add Configurations".
 
 After starting the run process, the client should appear soon after.
+
+## Creating Mixins
+
+See the [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin) documentation.
