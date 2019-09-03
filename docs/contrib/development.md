@@ -44,4 +44,4 @@ After starting the run process, the client should appear soon after.
 
 ## Creating Mixins
 
-See the [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin) documentation.
+See the [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin/wiki) documentation.
