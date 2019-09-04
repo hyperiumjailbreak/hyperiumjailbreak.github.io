@@ -9,7 +9,7 @@ theme:
     accent: 'indigo'
 
 repo_name: 'hyperiumjailbreak/website'
-repo_url: 'https://github.com/hyperiumjailbreak/client'
+repo_url: 'https://github.com/hyperiumjailbreak/website'
 edit_uri: 'blob/master/'
 
 markdown_extensions:
