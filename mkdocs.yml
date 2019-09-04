@@ -46,6 +46,7 @@ copyright: Copyright (©) HyperiumJailbreak Team 2019-present | Not affiliated w
 remote_branch: master
 
 extra:
+  manifest: 'manifest.json'
   social:
     - type: 'github'
       link: 'https://github.com/hyperiumjailbreak'
