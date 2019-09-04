@@ -22,3 +22,7 @@
     [here](https://github.com/hyperiumjailbreak/client/issues),
     or, you can [email the project team](mailto:me@rdil.rocks).
     Thank you for your feedback!
+
+??? question "My question isn't listed here! What do I do?"
+    See the answer for the `"How do I request a feature get added?"`
+    question.
