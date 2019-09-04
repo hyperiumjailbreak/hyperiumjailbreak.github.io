@@ -10,7 +10,7 @@ theme:
 
 repo_name: 'hyperiumjailbreak/website'
 repo_url: 'https://github.com/hyperiumjailbreak/website'
-edit_uri: 'blob/master/'
+edit_uri: 'blob/master/docs/'
 
 markdown_extensions:
   - markdown.extensions.admonition
