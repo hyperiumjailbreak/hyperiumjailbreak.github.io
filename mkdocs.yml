@@ -58,6 +58,7 @@ nav:
   - Addons: addons.md
   - 'FAQ / Help Center': faq.md
   - 'Our Sponsor': cloudrepo.md
+  - Changelogs: changelogs.md
   - Contributing:
     - 'Development Guide': contrib/development.md
     - 'Code of Conduct': contrib/CODE_OF_CONDUCT.md
