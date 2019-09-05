@@ -42,6 +42,20 @@ You can either do it in the Gradle tab under `forgegradle`, or in the run config
 
 After starting the run process, the client should appear soon after.
 
-## Creating Mixins
+## Creating [Mixins](https://en.wikipedia.org/wiki/Mixin)
+
+??? question "What is a `Mixin`?"
+    In short terms, a `Mixin` is a class
+    that allows changing/modifying/injecting
+    code in to a target class that you don't
+    have direct access to change it. This comes
+    in handy when needing to manipulate dependencies,
+    which in our case would be Minecraft mainly.
+    Want a better definition then that? Go read
+    about it [here](https://en.wikipedia.org/wiki/Mixin).
 
 See the [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin/wiki) documentation.
+
+## Creating addons
+
+Please make anything you want to add to the client internally (as mods) because addons are now deprecated.
