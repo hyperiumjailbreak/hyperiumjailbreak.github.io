@@ -52,14 +52,15 @@ extra:
       link: 'https://github.com/hyperiumjailbreak'
 
 nav:
-  - Home: index.md
-  - Features: features.md
-  - Installing: installation.md
-  - Addons: addons.md
+  - 'Home': index.md
+  - 'Features': features.md
+  - 'Installing': installation.md
+  - 'Addons': addons.md
   - 'FAQ / Help Center': faq.md
   - 'Our Sponsor': cloudrepo.md
-  - Changelogs: changelogs.md
-  - Contributing:
+  - 'Changelogs': changelogs.md
+  - 'Privacy Policy': privacy.md
+  - 'Contributing':
     - 'Development Guide': contrib/development.md
     - 'Code of Conduct': contrib/CODE_OF_CONDUCT.md
     - 'Pull Request Policy': contrib/pr_policy.md
