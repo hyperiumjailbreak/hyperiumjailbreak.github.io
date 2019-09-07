@@ -20,7 +20,6 @@ These addons have been checked over by the team and verified to work on a recent
 
 * [Quickplay](https://hyperiumjailbreak.mycloudrepo.io/public/repositories/addons/Quickplay-Hyperium-2.0.3.jar)
 * [Quickplay Premium](https://hyperiumjailbreak.mycloudrepo.io/public/repositories/addons/Quickplay_Premium_Hyperium-1.0.3.jar)
-* [Fullscreen Addon (updated edition)](https://hyperiumjailbreak.mycloudrepo.io/public/repositories/addons/FullscreenAddon-1.0-SNAPSHOT.jar)
 * OptiFine
 
 !!! info "Installing OptiFine"
