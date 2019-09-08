@@ -1,5 +1,7 @@
 # Changelog
 
+[![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
+
 ## v2.12.0
 
 ```diff
