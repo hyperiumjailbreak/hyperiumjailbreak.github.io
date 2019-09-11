@@ -66,3 +66,4 @@ nav:
     - 'Pull Request Policy': contrib/pr_policy.md
   - 'About':
     - 'Mission': about/mission.md
+    - 'Statistics': about/stats.md
