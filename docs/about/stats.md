@@ -27,7 +27,7 @@
 ### Versioning
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/hyperiumjailbreak/client?color=red&include_prereleases&label=latest%20release%20or%20prerelease&logo=git&style=flat-square)
-![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/hyperiumjailbreak/client?color=green&label=latest%20stable%20release&logo=git)
+![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/hyperiumjailbreak/client?color=green&label=latest%20stable%20release&logo=git&style=flat-square)
 
 ## Website
 
