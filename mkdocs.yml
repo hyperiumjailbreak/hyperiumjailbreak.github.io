@@ -58,7 +58,7 @@ nav:
   - 'Addons': addons.md
   - 'FAQ / Help Center': faq.md
   - 'Our Sponsor': cloudrepo.md
-  - 'Changelogs': changelogs.md
+  - 'Changelog': changelog.md
   - 'Privacy Policy': privacy.md
   - 'Contributing':
     - 'Development Guide': contrib/development.md
