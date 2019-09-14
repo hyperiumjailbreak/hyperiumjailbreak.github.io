@@ -10,7 +10,7 @@ We have tried to give you as much privacy we can, but in some cases, data is sha
 
 ### Third Party Addons
 
-!!! note "Privacy in Third Party Addons"
+!!! warning
     *Some Third Party Addons do contain analytics*, such as Quickplay (which contains Google Analytics).
     We do not modify the addons, so the analytics may work if present.
 
