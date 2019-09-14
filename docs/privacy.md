@@ -5,8 +5,14 @@ We have tried to give you as much privacy we can, but in some cases, data is sha
 
 ## Analytics
 
-* Minecraft - Minecraft includes analytics by default ("Snooper"), which we have not modified. You can turn this off.
+* Minecraft - Minecraft includes analytics by default ("Snooper"), which before 3.0 is not modified. *After 3.0*, we modified this feature so that you can turn this off in the settings menu, and removed the specific GUI.
 * HyperiumJailbreak team - When you start the client, it sends a request to our servers, only to update the player count. *This is fully anonymous except for your IP, which is processed by [Cloudflare](https://cloudflare.com)*.
+
+### Third Party Addons
+
+!!! note "Privacy in Third Party Addons"
+    *Some Third Party Addons do contain analytics*, such as Quickplay (which contains Google Analytics).
+    We do not modify the addons, so the analytics may work if present.
 
 ## Functionality
 
