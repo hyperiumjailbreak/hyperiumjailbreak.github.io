@@ -157,7 +157,17 @@
 
 ## v2.3
 
-Changelogs not available for this release.
+```diff
+- Removed some unused methods
+- Removed some unused imports
+- Removed some javadocs
+- Removed a part of improved particle handling
+- Removed chunkanimator
+- Removed Spotify fragments
+- Removed some broken beta features
+* Moved metadata class
+* Autotip tweaks and fixes
+```
 
 ## v2.2
 
