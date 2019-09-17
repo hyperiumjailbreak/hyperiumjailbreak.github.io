@@ -163,7 +163,7 @@
 - Removed some javadocs
 - Removed a part of improved particle handling
 - Removed chunkanimator
-- Removed Spotify fragments
+- Removed leftover Spotify fragments
 - Removed some broken beta features
 * Moved metadata class
 * Autotip tweaks and fixes
@@ -171,7 +171,14 @@
 
 ## v2.2
 
-Changelogs not available for this release.
+```diff
+- Removed ChatTriggers
+* Code cleanup
+- Deleted some backgrounds
+- Removed Spotify
+- Removed ToS and change background GUIs
+- Removed some javadocs
+```
 
 ## v2.0
 
