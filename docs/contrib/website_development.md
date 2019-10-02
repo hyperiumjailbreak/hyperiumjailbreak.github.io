@@ -4,8 +4,9 @@ Under the hood, the website uses [MkDocs Material](https://squidfunk.github.io/m
 
 ## Creating Pages
 
-MkDocs Material uses [Markdown](https://daringfireball.net/projects/markdown/) to generate the pages.
+MkDocs Material uses [Markdown](https://daringfireball.net/projects/markdown/) as the source language.
 See the [specification](https://github.github.com/gfm/) for more details.
+After you create the Markdown file, you will need to add it to the index in `mkdocs.yml` (the site-wide configuration file).
 
 ## Previewing Changes
 
