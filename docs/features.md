@@ -41,6 +41,7 @@ Here is a list of mods that are integrated in a recent stable release:
 - [Sidebar Mod](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - [TimeChanger](https://2pi.pw/mods/timechanger)
 - [ToggleChat](https://2pi.pw/mods/togglechat)
+- [Autotip](https://autotip.pro)
 - [Skyblock Addons](https://github.com/biscuut/SkyblockAddons)
 
 !!! info "Partially Integrated Mods"
