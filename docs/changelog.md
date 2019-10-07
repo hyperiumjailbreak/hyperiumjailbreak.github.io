@@ -7,10 +7,6 @@
 !!! danger
     This release is undergoing beta testing right now.
 
-# Changelog
-
-## v3.0.0
-
 > **Major release**.
 
 ```diff
