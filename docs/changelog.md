@@ -36,7 +36,6 @@
 + SHA512 files now distributed with releases
 + Updated Kotlin from 1.3.41 (Gradle plugin) and 1.3.31 (stdlib) to 1.3.50 (both)
 * JUnit is now properly excluded from production
-
 ```
 
 ### APIs Changed
