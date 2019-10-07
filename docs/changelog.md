@@ -2,6 +2,63 @@
 
 [![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
 
+## v3.0.0
+
+!!! danger
+    This release is undergoing beta testing right now.
+
+# Changelog
+
+## v3.0.0
+
+> **Major release**.
+
+```diff
+* Ported some more Kotlin to Java
+- Removed broken and unneeded settings
+- Removed built-in sound file
++ Added IDEA common configurations
+- Removed settings GUI alpha selection and arrows
+* Switched to CloudRepo proxy repositories
+* Made gson-extras (Netty Client) hosted
++ Added executable permisions to gradlew
+- Removed broken mod 'Victory Royale' - may be added back in future
+* Changed settings to not have alts
++ Added disable snooper option, removed snooper GUI
+- Removed buggy Fortnite default dance
+- Removed some icons
+- Removed settings GUI search bar - it didn't work
+- Removed creation/deletion of cape cache folder
+* Changed reach display popups display time from 3 seconds to 2.5
+* Whitespace changes
++ Added parts of Skyblock Addons
+* Improved FPS
++ SHA512 files now distributed with releases
++ Updated Kotlin from 1.3.41 (Gradle plugin) and 1.3.31 (stdlib) to 1.3.50 (both)
+* JUnit is now properly excluded from production
+
+```
+
+### APIs Changed
+
+```diff
+- Deprecated addons
+* Refactored rocks.rdil.jailbreak package into com.hyperiumjailbreak package
+- Removed HyperiumGui.trimString
++ Re-added getInternalAddons to cc.hyperium.Hyperium
+- Removed rocks.rdil.jailbreak.Jailbreak
+- Removed AbstractAddon.getAuthor, AbstractAddon.setDisplayName and AbstractAddon.setDisplayName
+- Same as last line, but with AbstractMod
+- Removed some unused constructors in custom crosshair mod
+- Deprecated ConfigOpt's alt string
+- Removed some unused parameters from custom crosshair mod
+- Removed PostCopyPlayerModelAnglesEvent and RankedRatingChangeEvent
+- Removed custom background logic
+- Removed ButtonComponent and LabelComponent
+- Removed BodyPart, AnimatedDance, and AnimationFrame classes
+- Removed IMixinEntityRenderer.callLoadShader
+```
+
 ## v2.12.0
 
 ```diff
