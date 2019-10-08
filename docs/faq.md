@@ -10,6 +10,7 @@
 ??? question "My FPS is really bad, how can I get more?"
     Turn on FPS mode, or reinstall the client
     (through the downloaded Jar file) with more RAM.
+    Turning on/off certain settings in the `Improvements` tab may also help!
 
 ??? question "I like a certain Forge mod, how do I use it within the client?"
     Sadly, Forge mods do not work with HJB.
@@ -22,6 +23,10 @@
     [here](https://github.com/hyperiumjailbreak/client/issues),
     or, you can [email the project team](mailto:me@rdil.rocks).
     Thank you for your feedback!
+
+??? question "Does this client spy on me?"
+    No, it does not! Unlike normal Hyperium, this client is built for privacy!
+    For more details, see our [Privacy Policy](privacy.md).
 
 ??? question "My question isn't listed here! What do I do?"
     See the answer for the `"How do I request a feature get added?"`
