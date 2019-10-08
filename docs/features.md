@@ -46,4 +46,4 @@ Here is a list of mods that are integrated in a recent stable release:
 
 !!! info "Partially Integrated Mods"
     Some mods, such as Skyblock addons, are only partially added.
-    Others are only availible in addon form (like Quickplay), see [the addons page](addons.md)
+    Others are only availible in addon form (like Quickplay), see [the addons page](addons.md).
