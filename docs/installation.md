@@ -1,5 +1,9 @@
 # Installing
 
+!!! danger
+    The installer is broken right now. If you don't know what you are doing, please wait until it is fixed.
+
+<!--
 Here is how to install HyperiumJailbreak:
 
 ## Prerequisites
@@ -13,13 +17,12 @@ First you will need to head over to [the releases section](https://github.com/hy
 You will need to download that Jar, and once you have done so, you need to run it.
 
 !!! important
-    If the Jar is opened up by Winrar or a file explorer program
-    like it, you will need to download
-    [JarFix](https://johann.loefflmann.net/en/software/jarfix/index.html#Download)
-    and run that program to proceed.
+    If the Jar is opened up by WinRAR, 7-Zip, or a different file explorer program instead of just the installer window,
+    you will need to download [JarFix](https://johann.loefflmann.net/en/software/jarfix/index.html#Download)
+    and run that program before you proceed.
 
 You should now open the downloaded Jar file. If you see the words 'Hyperium Installer', nice job. You can go to the next step.
-If it opens a file explorer program like Winrar, see the tooltip above (It says 'Important').
+If it opens a file explorer program like WinRAR, see the tooltip above (It says 'Important').
 
 ## Step 2
 
@@ -30,4 +33,5 @@ If it opens a file explorer program like Winrar, see the tooltip above (It says 
 
 Once you are in the Hyperium installer, you can proceed to configure it to your liking.
 
-After finishing, open your Minecraft launcher and have fun :D
+After finishing, open your Minecraft launcher and have fun :smile:
+-->
