@@ -1,2 +1,1 @@
-mkdocs-material==4.4.3
-pymdown-extensions==6.1
+mkdocs-material==4.5.0
