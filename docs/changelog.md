@@ -13,7 +13,6 @@
 * Ported some more Kotlin to Java
 - Removed broken and unneeded settings
 - Removed built-in sound file
-+ Added IDEA common configurations
 - Removed settings GUI alpha selection and arrows
 * Switched to CloudRepo proxy repositories
 * Made gson-extras (Netty Client) hosted
@@ -29,8 +28,7 @@
 * Whitespace changes
 + Added parts of Skyblock Addons
 * Improved FPS
-+ SHA512 files now distributed with releases
-+ Updated Kotlin from 1.3.41 (Gradle plugin) and 1.3.31 (stdlib) to 1.3.50 (both)
++ Updated Kotlin from 1.3.41 (Gradle plugin) and 1.3.31 (stdlib) to 1.3.61 (both)
 * JUnit is now properly excluded from production
 ```
 
