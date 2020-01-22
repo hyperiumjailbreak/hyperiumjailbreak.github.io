@@ -1,9 +1,5 @@
 # Installing
 
-!!! danger
-    The installer is broken right now. If you don't know what you are doing, please wait until it is fixed.
-
-<!--
 Here is how to install HyperiumJailbreak:
 
 ## Prerequisites
@@ -34,4 +30,3 @@ If it opens a file explorer program like WinRAR, see the tooltip above (It says 
 Once you are in the Hyperium installer, you can proceed to configure it to your liking.
 
 After finishing, open your Minecraft launcher and have fun :smile:
--->
