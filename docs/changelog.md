@@ -4,9 +4,6 @@
 
 ## v3.0.0
 
-!!! danger
-    This release is undergoing beta testing right now.
-
 > **Major release**.
 
 ```diff
