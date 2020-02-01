@@ -30,6 +30,8 @@
 * Improved FPS
 + Updated Kotlin from 1.3.41 (Gradle plugin) and 1.3.31 (stdlib) to 1.3.61 (both)
 * JUnit is now properly excluded from production
+* Removed a lot of unused code and cleaned other parts up
++ Synced event structure with upstream
 ```
 
 ### APIs Changed
