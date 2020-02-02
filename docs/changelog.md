@@ -2,6 +2,14 @@
 
 [![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
 
+## v3.0.1
+
+> **Bug-fix release**.
+
+```diff
+* Fixed issues with loading 3rd party addons
+```
+
 ## v3.0.0
 
 > **Major release**.
