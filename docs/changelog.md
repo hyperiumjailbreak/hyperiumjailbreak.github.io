@@ -69,7 +69,7 @@
 - Removed broken victory royale sound
 ```
 
-### Important APIs Changed
+### APIs Changed
 
 ```diff
 - @ConfigOpt: Removed comment and ignore fields
