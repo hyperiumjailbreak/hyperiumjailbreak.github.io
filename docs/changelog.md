@@ -2,9 +2,22 @@
 
 [![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
 
+## v3.1.0
+
+> **Bug-fix and feature release**.
+
+```diff
++ Added shim for InitializationEvent
+* Optimized some conditional statements
+* Deprecated certain AbstractMod features
+- Removed unused imports
++ Add toggle for night vision blinking
++ Added optimized particle handling (unstable)
+```
+
 ## v3.0.1
 
-> **Bug-fix release**.
+> **Bug-fix release - no longer up**.
 
 ```diff
 * Fixed issues with loading 3rd party addons
