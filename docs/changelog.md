@@ -2,6 +2,21 @@
 
 [![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
 
+## v3.2.0
+
+```diff
+- Remove metadata from AbstractMod objects
+* Fixed connection errors crashing the client
+- Removed /ping because it isn't working anymore
+- Remove numeric ping
+- Remove broken Hypixel friends GUI options
+* Fixed some keybind names
++ Add author tags to some mixins to stop IDE warnings
+- Removed unused code
++ Added back certain optimized particle features
+- Remove GeneralStatisticsTracking
+```
+
 ## v3.1.0
 
 > **Bug-fix and feature release**.
