@@ -2,6 +2,14 @@
 
 [![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
 
+## v3.2.1
+
+```diff
+- Remove Crazy Walls from statistics since it was removed from Hypixel
+* Avoid calling the Hyperium API to check if players are online
+* Update readme badges
+```
+
 ## v3.2.0
 
 ```diff
