@@ -1,4 +1,4 @@
-FROM squidfunk/mkdocs-material:4.6.0
+FROM squidfunk/mkdocs-material:5.5.0
 
 WORKDIR /home/
 
