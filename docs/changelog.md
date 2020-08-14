@@ -2,6 +2,20 @@
 
 [![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
 
+## v3.3.0
+
+```diff
++ Add AutoText mod - use /setbind
+* Fixed issues relating to CustomCrosshair
+- Finish off stat tracking
+* Rely on website to change custom levelheads
+* Completely change i18n system
+* Drop companions as a cosmetic
+* Fix errors relating to Skyblock Dungeons, timechanger, and snooper
++ Add dark auction timer to ChromaHUD
++ Add special zealot alert
+```
+
 ## v3.2.1
 
 ```diff
