@@ -23,12 +23,6 @@ of an elephant). Expand the `forgegradle` section.
 * If you want to be able to view the decompiled code for Minecraft in addition to being able to run the client (assists with creating mixins), double click `setupDecompWorkspace`.
 * If you just want to be able to run the client, double click `setupDevWorkspace`.
 
-!!! danger "Potential issues with `setupDecompWorkspace`"
-    `setupDecompWorkspace` is more likely to fail.
-    You can give it a try, but there is no guarantee
-    it will work. Don't be discouraged by this message
-    though!
-
 ## Running the client
 
 To run the client in the development environment, you can execute the pre-made task called `runClient`.
@@ -55,7 +49,3 @@ After starting the run process, the client should appear soon after.
     about it [here](https://en.wikipedia.org/wiki/Mixin).
 
 See the [SpongePowered/Mixin](https://github.com/SpongePowered/Mixin/wiki) documentation.
-
-## Creating addons
-
-Please make anything you want to add to the client internally (as mods) because addons are now deprecated.

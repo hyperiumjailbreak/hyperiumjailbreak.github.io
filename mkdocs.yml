@@ -21,7 +21,6 @@ markdown_extensions:
   - markdown.extensions.meta
   - markdown.extensions.toc:
       permalink: true
-  - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
@@ -39,7 +38,7 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-site_description: Jailbroken Hyperium client.
+site_description: A better version of Hyperium client for Minecraft.
 site_url: https://hyperiumjailbreak.com
 site_author: HyperiumJailbreak Team
 copyright: Copyright (©) HyperiumJailbreak Team 2019-present | Not affiliated with Mojang AB.
@@ -61,7 +60,6 @@ nav:
   - 'Privacy Policy': privacy.md
   - 'Contributing':
     - 'Development Guide': contrib/development.md
-    - 'Developing the Website Guide': contrib/website_development.md
     - 'Code of Conduct': contrib/CODE_OF_CONDUCT.md
     - 'Pull Request Policy': contrib/pr_policy.md
   - 'About':

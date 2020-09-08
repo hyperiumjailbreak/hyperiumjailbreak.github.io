@@ -12,10 +12,7 @@ Addons are a way of adding or changing Hyperium(Jailbreak).
 
 ## Verified Addon List
 
-These addons have been checked over by the team and verified to work on a recent (stable) release:
-
-* [Quickplay](https://hyperiumjailbreak.mycloudrepo.io/public/repositories/addons/Quickplay-Hyperium-2.0.3.jar)
-* OptiFine
+Please see the installer for a list of addons.
 
 !!! info "Installing OptiFine"
     OptiFine can't be installed by dragging and dropping a file.
