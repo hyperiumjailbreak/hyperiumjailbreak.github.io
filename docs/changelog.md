@@ -2,6 +2,21 @@
 
 [![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
 
+## v4.0.0
+
+```diff
++ Add working dark auction timer
+- Removed overlay APIs
+* Ported addon system to Java
+* Revamped the settings GUI
+* Made cosmetics internal, removed some dances.
+- Removed broken features
+* Fixed the resource pack GUI resetting on every click
+- Removed dead code
+- Removed broken togglechat options
++ Fixed some autotip errors
+```
+
 ## v3.3.0
 
 ```diff
