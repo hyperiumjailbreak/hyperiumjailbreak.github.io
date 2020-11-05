@@ -2,6 +2,25 @@
 
 [![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
 
+## v4.1.0
+
+```diff
+- Move SkyBlock features out of core (SkyblockAddons port coming soon!)
+* Widen access to some APIs
++ Improve the backend of some ChromaHUD screens
++ Add scrollable tooltips
++ Performance improvements
++ Fixed server-side flipping not working
+* Deprecate cc.hyperium.event.InitializationEvent, see javadoc
++ Add EntityJoinWorldEvent, LivingDeathEvent, LivingEntityUpdateEvent, ChunkLoadEvent, ItemTooltipEvent
+- Remove PreCopyPlayerModelAnglesEvent and CopyPlayerModelAnglesEvent
+* Deprecate mods field in config system
++ Update GameTypes from Hypixel API
++ Add HyperiumGuiIngame.render fields for mods to use (like Forge's API)
+* Fix a bug where the arm could get twisted sideways
+* Fix mixin audit not working
+```
+
 ## v4.0.0
 
 ```diff

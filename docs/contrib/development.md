@@ -36,7 +36,7 @@ You can either do it in the Gradle tab under `forgegradle`, or in the run config
 
 After starting the run process, the client should appear soon after.
 
-## Creating [Mixins](https://en.wikipedia.org/wiki/Mixin)
+## Creating a [Mixin](https://github.com/SpongePowered/Mixin)
 
 ??? question "What is a `Mixin`?"
     In short terms, a `Mixin` is a class
