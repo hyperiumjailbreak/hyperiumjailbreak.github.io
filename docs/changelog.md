@@ -2,6 +2,15 @@
 
 [![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
 
+## v4.1.1
+
+```diff
++ Re-add the option to enable/disable multi-CPU particle rendering
++ Supress useless errors
+* Fix some issues relating to items (hotfix for 4.1.0)
+* Reformat build.gradle
+```
+
 ## v4.1.0
 
 ```diff
