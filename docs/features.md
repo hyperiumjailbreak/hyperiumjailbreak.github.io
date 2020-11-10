@@ -24,7 +24,7 @@ Here is a list of mods that are integrated in a recent stable release:
 - Reach Display (Custom)
 - ToggleSprint (Custom)
 - NickHider (Custom)
-- Rainbow Hud (Custom)
+- Rainbow HUD (Custom)
 - [Perspective Mod](https://www.youtube.com/watch?v=7FdMMpzNdUk)
 - [AutoGG](https://2pi.pw/mods/autogg)
 - [BlockOverlay](https://aycy.github.io/)
@@ -42,8 +42,7 @@ Here is a list of mods that are integrated in a recent stable release:
 - [TimeChanger](https://2pi.pw/mods/timechanger)
 - [ToggleChat](https://2pi.pw/mods/togglechat)
 - [Autotip](https://autotip.pro)
-- [Skyblock Addons](https://github.com/biscuut/SkyblockAddons)
 
-!!! info "Partially Integrated Mods"
-    Some mods, such as Skyblock addons, are only partially added.
-    Others are only availible in addon form (like Quickplay), see [the addons page](addons.md).
+!!! info "Adding Custom Mods"
+    Because HyperiumJailbreak isn't built on Forge, it can't run Forge mods.
+    Some mods (like Quickplay), are already available as addons. (See [the addons page](./addons/index.md).)
