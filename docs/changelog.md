@@ -2,6 +2,13 @@
 
 [![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
 
+## v4.1.2
+
+```diff
+- Remove unused Skyblock backend code
+* Fix chromahud crashing the game, and connection errors
+```
+
 ## v4.1.1
 
 ```diff
