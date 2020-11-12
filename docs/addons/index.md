@@ -8,7 +8,7 @@ To install addons, follow this simple 3-step process:
 
 1. Download the addon's `.jar` file.
 2. Open your `.minecraft` folder, then open the `addons` sub-folder.
-3. Move the `.jar` file into the addons `sub-folder`.
+3. Move the `.jar` file into the addons folder.
 
 After install new addons, you will need to restart your game if it is already running.
 
