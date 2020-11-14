@@ -19,3 +19,8 @@ After install new addons, you will need to restart your game if it is already ru
 !!! warning "Addon Issues"
     Some addons made for normal Hyperium may not work on HyperiumJailbreak.
     If the developer has built the addon specifically targeting HyperiumJailbreak, this won't be a problem.
+
+## Official Addons
+
+The all official addons are verified by our team as safe and will work.
+They can be found [here](https://hyperiumjailbreak.mycloudrepo.io/public/repositories/addons/).
