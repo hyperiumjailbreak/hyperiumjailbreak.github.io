@@ -2,6 +2,22 @@
 
 [![Commits since latest stable](https://img.shields.io/github/commits-since/hyperiumjailbreak/client/latest.svg?color=blueviolet)](https://github.com/hyperiumjailbreak/client/commits/master)
 
+## v4.1.3
+
+```diff
++ Add helpful jar manifest attributes
++ Fixed a few memory leaks
+- Removed AbstractAddon, use AbstractMod instead for internal mods, and IAddon for external addons
++ Add RenderWorldFinalPassEvent
++ All handlers are now final
++ Improvements to addon loading
++ Add extremely experimental support for tweakers in addons
++ Fixed a bug where sounds would play after closing some GUIs
++ Added extra logging
+- Removed dead code and the dumb-looking custom sword animation
++ Better configuration defaults
+```
+
 ## v4.1.2
 
 ```diff
@@ -39,6 +55,8 @@
 
 ## v4.0.0
 
+> **Major release**.
+
 ```diff
 + Add working dark auction timer
 - Removed overlay APIs
@@ -54,6 +72,8 @@
 
 ## v3.3.0
 
+> **Feaure and bug fix release**.
+
 ```diff
 + Add AutoText mod - use /setbind
 * Fixed issues relating to CustomCrosshair
@@ -68,6 +88,8 @@
 
 ## v3.2.1
 
+> **Bug fix release**.
+
 ```diff
 - Remove Crazy Walls from statistics since it was removed from Hypixel
 * Avoid calling the Hyperium API to check if players are online
@@ -75,6 +97,8 @@
 ```
 
 ## v3.2.0
+
+> **Optimization and bug fix release**.
 
 ```diff
 - Remove metadata from AbstractMod objects
