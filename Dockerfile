@@ -1,1 +1,1 @@
-FROM squidfunk/mkdocs-material:6.1.6
+FROM squidfunk/mkdocs-material:6.2.8
